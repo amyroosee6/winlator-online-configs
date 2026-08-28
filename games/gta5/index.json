@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "gta5",
+    "name": "GTA5"
+  },
+  "configs": [
+    {
+      "id": "mtcysh23-8a1cba02-7a0",
+      "path": "games/gta5/configs/mtcysh23-8a1cba02-7a0.json",
+      "hardware": {
+        "soc": "qcom",
+        "gpu": "qcom",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
