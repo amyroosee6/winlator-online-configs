@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "gta5",
+    "name": "GTA5"
+  },
+  "configs": [
+    {
+      "id": "mtd27fps-2666674b-a1e",
+      "path": "games/gta5/configs/mtd27fps-2666674b-a1e.json",
+      "hardware": {
+        "soc": "Snapdragon 695",
+        "gpu": "Adreno 619",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
