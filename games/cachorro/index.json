@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "cachorro",
+    "name": "Cachorro"
+  },
+  "configs": [
+    {
+      "id": "mtd00cn5-2d399d86-0aa",
+      "path": "games/cachorro/configs/mtd00cn5-2d399d86-0aa.json",
+      "hardware": {
+        "soc": "qcom",
+        "gpu": "qcom",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
