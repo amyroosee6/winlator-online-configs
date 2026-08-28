@@ -1,0 +1,27 @@
+{
+  "game": {
+    "name": "Winlator API Smoke Test",
+    "id": "worker-smoke-test"
+  },
+  "hardware": {
+    "soc": "smoke",
+    "gpu": "smoke",
+    "ramMb": 8192,
+    "winlatorVersion": "11.2"
+  },
+  "components": {
+    "dxvk": "2.3"
+  },
+  "settings": {
+    "screenSize": "1280x720",
+    "graphicsDriver": "turnip,gladio",
+    "dxwrapper": "dxvk",
+    "box64Preset": "STABILITY",
+    "envVars": [
+      "MESA_SHADER_CACHE_DISABLE=false"
+    ]
+  },
+  "author": "smoke-test",
+  "version": 1,
+  "id": "mtcxxt0o-7d7d316f-a2c"
+}
