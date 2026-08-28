@@ -48,6 +48,17 @@
         "winlatorVersion": "11.2"
       },
       "version": 1
+    },
+    {
+      "id": "mtd178zh-e48f09bb-79c",
+      "path": "games/gta5/configs/mtd178zh-e48f09bb-79c.json",
+      "hardware": {
+        "soc": "Snapdragon 695",
+        "gpu": "Adreno 619",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
     }
   ]
 }
