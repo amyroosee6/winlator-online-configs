@@ -2,6 +2,10 @@
   "version": 1,
   "games": [
     {
+      "id": "cachorro",
+      "name": "Cachorro"
+    },
+    {
       "id": "gta5",
       "name": "GTA5"
     },
