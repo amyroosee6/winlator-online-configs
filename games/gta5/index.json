@@ -15,6 +15,17 @@
         "winlatorVersion": "11.2"
       },
       "version": 1
+    },
+    {
+      "id": "mtcyu035-58ec7943-363",
+      "path": "games/gta5/configs/mtcyu035-58ec7943-363.json",
+      "hardware": {
+        "soc": "qcom",
+        "gpu": "qcom",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
     }
   ]
 }
