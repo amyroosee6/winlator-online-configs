@@ -1,1 +1,9 @@
-
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "worker-smoke-test",
+      "name": "Winlator API Smoke Test"
+    }
+  ]
+}
