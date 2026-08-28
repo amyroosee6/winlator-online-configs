@@ -37,6 +37,17 @@
         "winlatorVersion": "11.2"
       },
       "version": 1
+    },
+    {
+      "id": "mtd12fiw-056ae623-e47",
+      "path": "games/gta5/configs/mtd12fiw-056ae623-e47.json",
+      "hardware": {
+        "soc": "Snapdragon 695",
+        "gpu": "Adreno 619",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
     }
   ]
 }
