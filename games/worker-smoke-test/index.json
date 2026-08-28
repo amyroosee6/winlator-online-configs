@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Winlator API Smoke Test",
+    "id": "worker-smoke-test"
+  },
+  "configs": [
+    {
+      "id": "mtcxxt0o-7d7d316f-a2c",
+      "path": "games/worker-smoke-test/configs/mtcxxt0o-7d7d316f-a2c.json",
+      "hardware": {
+        "soc": "smoke",
+        "gpu": "smoke",
+        "ramMb": 8192,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
