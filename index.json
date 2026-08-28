@@ -2,6 +2,10 @@
   "version": 1,
   "games": [
     {
+      "id": "gta5",
+      "name": "GTA5"
+    },
+    {
       "id": "worker-smoke-test",
       "name": "Winlator API Smoke Test"
     }
