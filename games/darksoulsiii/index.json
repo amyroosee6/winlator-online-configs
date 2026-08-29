@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "darksoulsiii",
+    "name": "DarkSoulsIII"
+  },
+  "configs": [
+    {
+      "id": "mtekaamw-f477c477-5de",
+      "path": "games/darksoulsiii/configs/mtekaamw-f477c477-5de.json",
+      "hardware": {
+        "soc": "SM8550",
+        "gpu": "Adreno 740",
+        "ramMb": 7072,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
