@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "metal-gear-rising-revengeance",
+    "name": "METAL GEAR RISING REVENGEANCE"
+  },
+  "configs": [
+    {
+      "id": "mtff1em8-62fd8b1b-824",
+      "path": "games/metal-gear-rising-revengeance/configs/mtff1em8-62fd8b1b-824.json",
+      "hardware": {
+        "soc": "Snapdragon 695",
+        "gpu": "Adreno 619",
+        "ramMb": 3472,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
