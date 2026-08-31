@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "skyrim-legendary-edition",
+    "name": "Skyrim Legendary Edition"
+  },
+  "configs": [
+    {
+      "id": "mtgvhk72-c135ec78-169",
+      "path": "games/skyrim-legendary-edition/configs/mtgvhk72-c135ec78-169.json",
+      "hardware": {
+        "soc": "SM8550",
+        "gpu": "Adreno 740",
+        "ramMb": 7072,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
