@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "game": {
+    "id": "mirrorsedgecatalyst",
+    "name": "MirrorsEdgeCatalyst"
+  },
+  "configs": [
+    {
+      "id": "mvq98dme-a80483c6-0d9",
+      "path": "games/mirrorsedgecatalyst/configs/mvq98dme-a80483c6-0d9.json",
+      "hardware": {
+        "soc": "SM8750",
+        "gpu": "Adreno 830",
+        "ramMb": 11113,
+        "winlatorVersion": "11.2"
+      },
+      "version": 1
+    }
+  ]
+}
