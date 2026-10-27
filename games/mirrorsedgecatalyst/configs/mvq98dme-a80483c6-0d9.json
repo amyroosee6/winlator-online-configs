@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "game": {
+    "id": "mirrorsedgecatalyst",
+    "name": "MirrorsEdgeCatalyst"
+  },
+  "hardware": {
+    "soc": "SM8750",
+    "gpu": "Adreno 830",
+    "ramMb": 11113,
+    "winlatorVersion": "11.2"
+  },
+  "settings": {
+    "screenSize": "1280x720",
+    "graphicsDriver": "turnip,zink",
+    "dxwrapper": "dxvk",
+    "dxwrapperConfig": "version=2.4.1,framerate=0,maxDeviceMemory=0,ddrawWrapper=d7vk|version=3.0b,featureLevel=12.2",
+    "graphicsDriverConfig": "version=26.1.0,maxDeviceMemory=0,useHWBuf=0,forceWaitForFences=0|",
+    "box64Preset": "STABILITY",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "audioDriver": "pulseaudio",
+    "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=1,directplay=1,xaudio=1,vcrun2005=1,vcrun2010=1,wmdecoder=1",
+    "envVars": "DXVK_FRAME_RATE=30"
+  },
+  "components": {
+    "box64": "0.4.4",
+    "turnip": "26.1.0",
+    "dxvk": "2.4.1",
+    "wine": "wine-10.10-custom"
+  },
+  "id": "mvq98dme-a80483c6-0d9"
+}
